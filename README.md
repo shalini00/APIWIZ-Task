@@ -80,12 +80,18 @@ To get started with this project:
 5. **Undo/Redo**:
    - The editor uses a history stack to manage undo and redo actions. Each change is added to the history, and users can revert or redo changes using keyboard shortcuts.
 
+
 ## Technologies Used
 
 - **React**: The core library used to build the editor.
 - **CSS**: Used for styling the editor components.
 - **Custom Hooks**: `useEditorState` hook for managing state and history.
 - **ContentEditable**: HTML attribute used to make the editor area editable.
+
+
+## Application Hosting URL
+https://apiwiz-task.vercel.app
+
 
 ## Contact
 
